@@ -58,7 +58,7 @@ Suggestion:
 
 - Use popular style guide ([Airbnb](https://github.com/airbnb/javascript))
 
-- JavaScript
+- JSON
 
 - Install them now (Yes)
 
